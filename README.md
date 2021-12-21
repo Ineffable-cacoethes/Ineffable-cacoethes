@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ineffable-cacoethes
 - 👀 I’m interested in front end webdevelopment and coding in general
-- 🌱 I’m currently learning HTML Javascript and CSS. 
+- 🌱 I’m currently learning HTML, Javascript, and CSS. 
 - 💞️ I’m looking to collaborate on any beginner projects. 
 - 📫 How to reach me - *UPDATE*
 
